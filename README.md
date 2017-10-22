@@ -1,4 +1,4 @@
-# discretizing_stochastic_process
+# Discretizing Stochastic Process
 
 This project is to discretize stochastic process by using Tauchen (1986) and Rouwenhorst (1995) methods, which are widely used implemetation of approximating AR(1) process in economics.
 
