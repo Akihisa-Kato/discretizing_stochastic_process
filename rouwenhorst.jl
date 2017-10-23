@@ -2,7 +2,7 @@
 # written on 2017/10/17
 #
 # Model:
-# z' = rho*z+e  where e~N(0,(sig_e)^2)
+# z' = rho*z+e  e~N(0,(sig_e)^2)
 #
 # INPUTS
 # N:     Number of grids
