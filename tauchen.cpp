@@ -31,7 +31,7 @@ int main(int argc, char* argv[])
 {
 
   ///////////////////////////////////////////////////////////
-  // 1. Input N, m, rhom sig_e on Terminal
+  // 1. Parameters
   ///////////////////////////////////////////////////////////
 
   // Ex. Standard quarterly calibration for pruductivity

@@ -27,7 +27,7 @@
 int main(int argc, char* argv[])
 {
   ///////////////////////////////////////////////////////////
-  // 1. Input N, rhom sig_e on Terminal
+  // 1. Basic Parameters
   ///////////////////////////////////////////////////////////
 
   // Ex. Standard quarterly calibration for pruductivity
